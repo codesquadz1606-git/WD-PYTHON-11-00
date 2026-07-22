@@ -1,0 +1,14 @@
+filename.py is the extention of python file.
+
+print() : It is used to print any statement or perform any operation.
+
+Whenever you want to print any statement we have to use "".
+
+# is used for comment in our code.
+
+For calling statement & opertion/number/variable together we use format function. : f" Statement {opertion/number/variable}"
+
+\n : it used for next line
+\t : for giving tab space.
+
+end="" : It takes the space according to the content & starts a new content ahead 
