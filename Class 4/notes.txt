@@ -1,0 +1,9 @@
+Control Flow Statements
+i. Decision Making
+    a. if(condition) 
+    b. if() - else
+    c. if() - elif() - else
+ii. Looping Statements : It is an iterable which iterate on a condition until condition is true.
+    a.while
+    b.for
+iii. Jumping Statements
