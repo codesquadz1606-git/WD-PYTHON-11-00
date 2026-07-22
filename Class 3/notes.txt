@@ -1,0 +1,17 @@
+What is Operators?
+    The operation b/w multiple operands.
+
+    A+B=AB
+    Here A & B is operand , & + is Operator
+
+Types
+    1. Arthemetic : + , - , * , / , % , **
+    2. Assignment : Value assigning , from right to left.
+    3. Relational : Find relation b/w two or more operands.
+    <,>,<=,>=,==,!=
+
+    4. Logical : and , or , not
+    Here we operate on multiple conditions.
+
+    5. Membership : in , not in
+    6. Indentify Operator : is , is not
