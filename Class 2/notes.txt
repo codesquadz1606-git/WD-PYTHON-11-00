@@ -1,0 +1,24 @@
+Variable 
+    What is variable?
+    Variable is a container that stores some value at memory.
+
+    var_name=value
+    Variable name must not start with @ , number and special charcters.
+
+Data Types
+    To identify what type of value is stored in variable.
+
+    int , float , string , boolean , NoneType
+
+User Input
+    What is user-input?
+    Here we use input() for user input
+
+    input() it by default give the string value.
+
+Typecasting : Converting type of variable from one to another.
+int() , float() , str()
+
+
+Q1 . Take an input of name , age & city and print them in a statement.
+Q2 . Calculate the area of rectangle tal=king sides as in user input
