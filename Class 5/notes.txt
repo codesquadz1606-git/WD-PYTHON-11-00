@@ -1,0 +1,11 @@
+range in loop
+range(?start,stop,?step)
+How the range works?
+it starts from 0 and goes to stop-1
+
+We have to provide start & step together , but for step we have to provide start , whereas for start,stop we don't need step
+
+What is jump statement?
+i. break 
+ii. continue
+iii. pass
