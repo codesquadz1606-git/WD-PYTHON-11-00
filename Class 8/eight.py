@@ -124,5 +124,3 @@ print(data)
 # clear()
 # info.clear()
 # print(info)
-
-
