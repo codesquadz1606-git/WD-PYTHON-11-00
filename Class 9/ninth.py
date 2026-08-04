@@ -115,10 +115,50 @@
 # What is Return Keyword?
 # It is used to transfer value to function itself.
 
-def sum(a,b,c):
-    print(a+b+c)
-    return a+b+c # this value is stored in function.
+# def sum(a,b,c):
+#     print(a+b+c)
+#     return a+b+c # this value is stored in function.
 
 
-# Arguments : Value that is paased in a scope of function while calling a function i.e Arguments.
-print(sum(10,20,30))
+# # Arguments : Value that is paased in a scope of function while calling a function i.e Arguments.
+# print(sum(10,20,30))
+
+# Default Parameter.
+# def info(name,age,city="Noida"):
+#     print(name,age,city)
+
+# info("Kamal",34,"Delhi")
+
+# def fullName(fname,lname="Sharma"):
+#     print(fname,lname)
+
+# fullName("Rohit")
+# fullName("Yogesh","Singh")
+
+# def number(*num): # for tuple
+#     print(num)
+#     print(type(num))
+
+# number(10,20,30,40,50,60)
+
+# def info(**args): # for key value pair i.e dictonary.
+#     print(args)
+
+# info(name="AYush",city="Ghaziabad",pincode=201002)
+
+# Scope of Variables
+# Their are two types of scopes : 
+# i. Local
+# ii. Global Scope
+
+count=10 # gloabally vallue declared.
+def access():
+    # count1=100 # it is defined as local scope.
+    global count # now we can access as well as edit the variable
+    count+=1
+
+
+
+print(count)
+access()
+print(count)
