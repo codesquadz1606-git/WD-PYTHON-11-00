@@ -1,7 +1,2 @@
-I am Hello
-Hello is new line.
-Hello name is Ayush.
-python
-pandas
-numpy
-seaborn
+
+ThiHellonew line
